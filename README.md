@@ -235,11 +235,11 @@ EITMS/
 
 Make sure you have the following installed:
 
-- **PHP** >= 8.2
+- **PHP** >= 8.3.28
 - **Composer** >= 2.x
-- **Node.js** >= 18.x
+- **Node.js** >= 24.16
 - **npm** >= 8.x
-- **MySQL** >= 8.x
+- **MySQL** >= 8.4.7
 - **WAMP / XAMPP / Laragon** (for local development)
 
 ---
@@ -639,18 +639,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/chetnatambuskar)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/chetana-tambuskar-244065226)
+- Email: chetanatambuskar24@gmail.com
 
 ---
 
@@ -667,7 +661,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
 
 **⭐ If you found this project helpful, please give it a star!**
-
-Made with ❤️ using Laravel + React
-
 </div>

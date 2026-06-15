@@ -4,12 +4,11 @@
 
 ![EITMS Banner](https://img.shields.io/badge/EITMS-Employee%20%26%20Intern%20Tracking-2563eb?style=for-the-badge&logo=building&logoColor=white)
 
-[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Laravel](https://img.shields.io/badge/Laravel-12.15.0-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-8.4.7-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-4.1.11-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
 **A full-stack web application to manage employees, interns, attendance, tasks, placements, and reports — all in one place.**
 
@@ -154,10 +153,9 @@
 | React Router | 6.x | Client-side routing |
 | Axios | 1.x | HTTP client |
 | Tailwind CSS | 3.x | Styling |
-| Recharts | 2.x | Charts and graphs |
-| React Hook Form | 7.x | Form management |
-| Lucide React | 0.4x | Icons |
-| React Hot Toast | 2.x | Notifications |
+
+
+
 
 ---
 
@@ -236,9 +234,9 @@ EITMS/
 Make sure you have the following installed:
 
 - **PHP** >= 8.3.28
-- **Composer** >= 2.x
+- **Composer** >= 2.9.7
 - **Node.js** >= 24.16
-- **npm** >= 8.x
+- **npm** >= 11.15.0
 - **MySQL** >= 8.4.7
 - **WAMP / XAMPP / Laragon** (for local development)
 

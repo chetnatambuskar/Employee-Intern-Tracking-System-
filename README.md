@@ -379,26 +379,6 @@ FILESYSTEM_DISK=public
 | `user_profiles` | Extended profile data (bio, education, skills, etc.) |
 | `personal_access_tokens` | Sanctum API tokens |
 
-### Key Relationships
-
-```
-users ─────────────┬── employees (1:1)
-                   ├── interns (1:1)
-                   ├── attendances (1:N)
-                   ├── tasks (1:N as assignee)
-                   ├── resumes (1:N)
-                   ├── notifications (1:N)
-                   └── user_profiles (1:1)
-
-departments ───────┬── users (1:N)
-                   ├── employees (1:N)
-                   ├── interns (1:N)
-                   └── tasks (1:N)
-
-interns ───────────└── placements (1:N)
-```
-
----
 
 ## 🔑 Default Login Credentials
 
@@ -536,26 +516,6 @@ Authorization: Bearer {your-token}
 
 ---
 
-## 🔒 Role-Based Access
-
-| Feature | Admin | Manager | Employee | Intern |
-|---------|-------|---------|----------|--------|
-| Dashboard | ✅ | ✅ | ✅ (limited) | ✅ (limited) |
-| Employees CRUD | ✅ | ✅ | ❌ | ❌ |
-| Interns CRUD | ✅ | ✅ | ❌ | ❌ |
-| Mark Attendance | ✅ | ✅ | ❌ | ❌ |
-| View Own Attendance | ✅ | ✅ | ✅ | ✅ |
-| Create Tasks | ✅ | ✅ | ❌ | ❌ |
-| Update Task Status | ✅ | ✅ | ✅ | ✅ |
-| Placements | ✅ | ✅ | ❌ | ❌ |
-| Departments | ✅ | ✅ | ❌ | ❌ |
-| Reports | ✅ | ✅ | ❌ | ❌ |
-| View User Profiles | ✅ | ✅ | ❌ | ❌ |
-| Own Profile | ✅ | ✅ | ✅ | ✅ |
-| Resume Upload | ✅ | ✅ | ✅ | ✅ |
-
----
-
 ## 🖥 Screenshots
 
 ### Login Page
@@ -640,13 +600,13 @@ Contributions are welcome! Please follow these steps:
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/chetnatambuskar)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/chetana-tambuskar-244065226)
+- GitHub: [https://github.com/chetnatambuskar](https://github.com/chetnatambuskar)
+- LinkedIn: [www.linkedin.com/in/chetana-tambuskar-244065226](www.linkedin.com/in/chetana-tambuskar-244065226)
 - Email: chetanatambuskar24@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Laravel](https://laravel.com) — The PHP Framework for Web Artisans
 - [React](https://reactjs.org) — A JavaScript library for building user interfaces

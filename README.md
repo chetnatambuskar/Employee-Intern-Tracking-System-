@@ -5,7 +5,7 @@
 ![EITMS Banner](https://img.shields.io/badge/EITMS-Employee%20%26%20Intern%20Tracking-2563eb?style=for-the-badge&logo=building&logoColor=white)
 
 [![Laravel](https://img.shields.io/badge/Laravel-12.15.0-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
+[![React](https://img.shields.io/badge/React-18.1.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
 [![Vite](https://img.shields.io/badge/Vite-7.1.2-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![MySQL](https://img.shields.io/badge/MySQL-8.4.7-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4.1.11-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
